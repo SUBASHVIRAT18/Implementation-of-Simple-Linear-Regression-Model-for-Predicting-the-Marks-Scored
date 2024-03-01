@@ -1,5 +1,3 @@
-![IMG-20240301-WA0027](https://github.com/SUBASHVIRAT18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473303/f01db5b4-14a8-4604-9bc9-8fe756c738a2)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
